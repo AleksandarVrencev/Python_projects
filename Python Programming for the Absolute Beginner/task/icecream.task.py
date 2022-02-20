@@ -1,0 +1,2 @@
+# Print exercise
+print('Vanila')
